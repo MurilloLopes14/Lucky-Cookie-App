@@ -6,5 +6,5 @@ An lucky cookie App that shows an random phrase. Made with React Native Expo CLI
 • I'd like to know what you think about this code, then, you can mail me if you want: murillo.lopes1234@outlook.com
 
 # Demo
-              https://user-images.githubusercontent.com/96423969/213304301-a0dad837-e6fd-4fb0-abbe-efe910e23482.mp4
+https://user-images.githubusercontent.com/96423969/213304301-a0dad837-e6fd-4fb0-abbe-efe910e23482.mp4
 
